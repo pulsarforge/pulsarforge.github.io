@@ -1,2 +1,3 @@
 # pulsarforge.github.io
-Space Travel Blog, NFTs and Metaverse.
+Space Travel.
+Dev, Design, NFTs, Streetwear, Blog and ...
