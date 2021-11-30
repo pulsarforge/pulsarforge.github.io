@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Metaverse	</title>
-	<atom:link href="/metaverse/feed/" rel="self" type="application/rss+xml" />
-	<link>/metaverse/</link>
+	<atom:link href="https://pulsarforge.github.io/metaverse/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pulsarforge.github.io/metaverse/</link>
 	<description>Space Parsecs</description>
 	<lastBuildDate>Fri, 26 Nov 2021 16:53:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

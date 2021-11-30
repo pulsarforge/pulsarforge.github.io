@@ -9,8 +9,8 @@
 
 <channel>
 	<title>PulsarForge</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://pulsarforge.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pulsarforge.github.io</link>
 	<description>Space Parsecs</description>
 	<lastBuildDate>Fri, 26 Nov 2021 16:53:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/11/Eye-Mind-Kraken-500-JPEG.jpg</url>
+	<url>https://pulsarforge.github.io/wp-content/uploads/2021/11/Eye-Mind-Kraken-500-JPEG.jpg</url>
 	<title>PulsarForge</title>
-	<link></link>
+	<link>https://pulsarforge.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Metaverse</title>
-		<link>/metaverse/</link>
+		<link>https://pulsarforge.github.io/metaverse/</link>
 		
 		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
 		<pubDate>Fri, 26 Nov 2021 16:47:26 +0000</pubDate>
 				<category><![CDATA[Metaverse]]></category>
-		<guid isPermaLink="false">/?p=46</guid>
+		<guid isPermaLink="false">https://pulsarforge.github.io/?p=46</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
