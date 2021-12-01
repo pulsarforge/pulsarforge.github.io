@@ -1,3 +1,2 @@
 # pulsarforge.github.io
-Space Travel.
-Dev, Design, NFTs, Streetwear, Blog and ...
+Space Travel. Dev, Focus on Cloud AWS. Design, NFTs, Streetwear, Blog and more.
