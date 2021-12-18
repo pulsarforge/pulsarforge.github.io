@@ -12,7 +12,7 @@
 	<atom:link href="https://pulsarforge.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://pulsarforge.github.io</link>
 	<description>Space Parsecs</description>
-	<lastBuildDate>Fri, 26 Nov 2021 16:53:55 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Dec 2021 12:46:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,16 +28,318 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Awesome GraphQL Techs</title>
+		<link>https://pulsarforge.github.io/blog/awesome-graphql-techs/</link>
+		
+		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
+		<pubDate>Sat, 18 Dec 2021 12:46:25 +0000</pubDate>
+				<category><![CDATA[GraphQL]]></category>
+		<guid isPermaLink="false">https://pulsarforge.github.io/?p=231</guid>
+
+					<description><![CDATA[An awesome list of platforms, tools, repositories, techs around GraphQL]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>Built: (For self reference of tech explored &amp; exploring)</p>
+<p>Foundamentals:</p>
+<p><a href="https://graphql.org/" target="_blank" rel="noopener">Graphql.org</a></p>
+<p>Official docs.</p>
+<p>_______</p>
+<p>Repositories:<br /><a href="https://github.com/graphql/graphiql" target="_blank" rel="noopener">Graphiql</a></p>
+<p>Interface for GraphQL queries.</p>
+<p>_______</p>
+<p>CMS:</p>
+<p><a href="https://graphcms.com/" target="_blank" rel="noopener">Graphcms.com</a></p>
+<p>To build your content APIs, in no-time.</p>
+<p><a href="https://www.storyblok.com/" target="_blank" rel="noopener">Storyblok.com</a></p>
+<p>To build your content in a blink of an eye.</p>
+<p>_______</p>
+<p>Platforms:</p>
+<p><a href="https://www.apollographql.com/" target="_blank" rel="noopener">Apollographql.com</a></p>
+<p>Unifying API, data, microservices, databases into a graph to query with graphql.</p>
+<p><a href="https://graphqleditor.com/" target="_blank" rel="noopener">Graphqleditor.com</a></p>
+<p>API management way more easier and collaborative.</p>
+<p><a href="https://hasura.io/" target="_blank" rel="noopener">Hasura.io</a></p>
+<p>Instant graphql and rest apis for your new &amp; existing data sources.</p>
+<p>_______</p>
+<p>Databases:</p>
+<p><a href="https://dgraph.io/" target="_blank" rel="noopener">Dgraph.io</a></p>
+<p>Hell yeah!</p>
+<p>_______</p></div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Reading &#038; Books</title>
+		<link>https://pulsarforge.github.io/blog/reading-books/</link>
+		
+		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
+		<pubDate>Sat, 11 Dec 2021 18:04:30 +0000</pubDate>
+				<category><![CDATA[Dev]]></category>
+		<guid isPermaLink="false">https://pulsarforge.github.io/?p=218</guid>
+
+					<description><![CDATA[List of Technical books, and others.]]></description>
+										<content:encoded><![CDATA[
+<div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>List:</h2>
+<p>Starting today I am registering the books I am reading and others already completed.</p>
+<h2>Technical Books:</h2>
+<ul>
+<li>Microservices Patterns by Chris Richardson.</li>
+<li>Linux basics for hackers by OccupyThe Web.</li>
+<li>The linux command line by William E. Shotts Jr.</li>
+<li>Token Economy How the Web3 reinvents the Internet by Shermin Voshmgir.</li>
+</ul>
+<h2>Real World Books:</h2>
+<ul>
+<li>The subtle art of not giving a F*ck by Mark Manson.
+<ul>
+<li>&#8220;Care about better problems&#8221;</li>
+</ul>
+</li>
+<li>21 lessons for the XXI century by Yuval Noah Harari.
+<ul>
+<li>&#8220;Compassion&#8221;</li>
+</ul>
+</li>
+<li>Mind Management not time management productivy when creativity matters by David Kadavy.
+<ul>
+<li>&#8220;Recognize your energy flows&#8221;</li>
+</ul>
+</li>
+</ul>
+<h2>Fantasy / Scifi:</h2>
+<p>Games of Thrones by George R. R. Martin.</p>
+<p>&#8230;</p></div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>My Toolbox</title>
+		<link>https://pulsarforge.github.io/blog/my-toolbox/</link>
+		
+		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
+		<pubDate>Mon, 06 Dec 2021 14:36:34 +0000</pubDate>
+				<category><![CDATA[Daily Updates]]></category>
+		<guid isPermaLink="false">https://pulsarforge.github.io/?p=193</guid>
+
+					<description><![CDATA[Which are my platforms and tools of choice?]]></description>
+										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2><span data-preserver-spaces="true">My toolbox to build, deliver, and earn.</span></h2>
+<p><span data-preserver-spaces="true"></span></p>
+<p><span data-preserver-spaces="true"></span></p>
+<ul>
+<li><span data-preserver-spaces="true">A good computer for:</span></li>
+<ul>
+<li class="ql-indent-1"><span data-preserver-spaces="true">Development: Long list of techs&#8230; but the resyume is: AWS, Java / Spring, GraphQL, React.</span></li>
+<li class="ql-indent-1"><span data-preserver-spaces="true">Art: Affinity Designer for drawing, Material Maker for materials, Blender for geometry.</span></li>
+</ul>
+<li><span data-preserver-spaces="true">GitHub is the go place for code and projects. It is the place of this page. It keeps me accountable, tracks my progress, and is the code portfolio for my path.</span></li>
+</ul>
+<p><span data-preserver-spaces="true"></span></p>
+<ul>
+<li><span data-preserver-spaces="true">Substack newsletter Kraken Combat Exoplanet for growth and reach.</span></li>
+</ul>
+<p><span data-preserver-spaces="true"></span></p>
+<ul>
+<li><span data-preserver-spaces="true">Twitter for connecting and interacting. Since I am mainly on Twitter and</span><span data-preserver-spaces="true"> post whenever I feel it, there is no need to post with schedulers as Tweetdeck, which is free, but the option is there.</span></li>
+</ul>
+<p><span data-preserver-spaces="true"></span></p>
+<ul>
+<li><span data-preserver-spaces="true">Discord to create community.</span></li>
+</ul>
+<p><span data-preserver-spaces="true"></span></p>
+<ul>
+<li><span data-preserver-spaces="true">ArtStation, as Art Portfolio, for prints and digital art products.</span></li>
+<li><span data-preserver-spaces="true">Opensea for NFTs.</span></li>
+</ul>
+<p><span data-preserver-spaces="true"></span></p>
+<ul>
+<li><span data-preserver-spaces="true">Printful for streetwear clothing.</span></li>
+</ul>
+<p><span data-preserver-spaces="true"></span></p>
+<ul>
+<li><span data-preserver-spaces="true">Gumroad for Dev Products and more.</span></li>
+</ul>
+<p>&nbsp;</p></div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lifestyle for 2022</title>
+		<link>https://pulsarforge.github.io/blog/lifestyle-for-2022/</link>
+		
+		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
+		<pubDate>Wed, 01 Dec 2021 20:09:36 +0000</pubDate>
+				<category><![CDATA[Yearly Updates]]></category>
+		<guid isPermaLink="false">https://pulsarforge.github.io/?p=172</guid>
+
+					<description><![CDATA[What am I already cooking for 2022?]]></description>
+										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h1>Cooking on the hoven at a slow temperature</h1>
+<p><span data-preserver-spaces="true">For 2022 I am increasing these Four Hobbies:</span></p>
+<ul>
+<li><span data-preserver-spaces="true"> Cloud &amp; Programming, which pay the bills and increase mind abstraction layers.</span></li>
+<ul>
+<li class="ql-indent-1"><span data-preserver-spaces="true">I secure already my skills improvement with Cloud Academy &amp; Pluralsight as well as working &amp; working.</span></li>
+<li class="ql-indent-1"><span data-preserver-spaces="true">I document my daily, monthly, and yearly path starting today. Yes, writing is key here and in my newsletter </span><span style="text-decoration: underline;"><a target="_blank" href="https://pulsarforge.substack.com/" class="editor-rtfLink" rel="noopener">Kraken Combat Exoplanet on Substack.</a></span></li>
+</ul>
+<li><span data-preserver-spaces="true">Getting more Fit.</span></li>
+<ul>
+<li class="ql-indent-1"><span data-preserver-spaces="true">Running.</span></li>
+<li class="ql-indent-1"><span data-preserver-spaces="true">Swimming.</span></li>
+<li class="ql-indent-1"><span data-preserver-spaces="true">High-intensity exercises.</span></li>
+</ul>
+<li><span data-preserver-spaces="true">Creative Activities.</span></li>
+<ul>
+<li class="ql-indent-1"><span data-preserver-spaces="true">Focus on drawing. Why? That&#8217;s an easy one to answer; it is cool to express anything visually.</span></li>
+</ul>
+<li><span data-preserver-spaces="true">Sharing activities online and offline.</span></li>
+<ul>
+<li class="ql-indent-1"><span data-preserver-spaces="true">Twitter.</span></li>
+<li class="ql-indent-1">Discord Community.<span data-preserver-spaces="true"></span></li>
+<li class="ql-indent-1"><span data-preserver-spaces="true">Meetups.</span></li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Metaverse</title>
-		<link>https://pulsarforge.github.io/metaverse/</link>
+		<link>https://pulsarforge.github.io/blog/metaverse/</link>
 		
 		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
 		<pubDate>Fri, 26 Nov 2021 16:47:26 +0000</pubDate>
 				<category><![CDATA[Metaverse]]></category>
 		<guid isPermaLink="false">https://pulsarforge.github.io/?p=46</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Real time experiences, Fully interactive objects, Holograms, and more...]]></description>
+										<content:encoded><![CDATA[
+
+
+<div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Insights:</h2>
+<p>&nbsp;</p>
+<p>Render Network partner with Solana:</p>
+<p>Real time experiences.</p>
+<p>Create fully interactable objects for the metaverse.</p>
+<p>Full compatibility with renders.</p>
+<p>More Mobile experiences.</p>
+<p>Holograms box. &#8220;People won&#8217;t believe until It will be already here&#8221;.</p>
+<p>More to discover here, amazing:</p>
+<p>&nbsp;</p></div>
+			</div><div class="et_pb_module et_pb_video et_pb_video_0">
+				
+				
+				<div class="et_pb_video_box"><iframe loading="lazy" title="Breakpoint 2021: Rendering the Metaverse on Solana" width="1080" height="608" src="https://www.youtube.com/embed/r7D2CA8qPHY?feature=oembed"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+				
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+
+
+]]></content:encoded>
 					
 		
 		
