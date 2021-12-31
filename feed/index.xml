@@ -12,7 +12,7 @@
 	<atom:link href="https://pulsarforge.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://pulsarforge.github.io</link>
 	<description>Space Parsecs</description>
-	<lastBuildDate>Sat, 18 Dec 2021 12:46:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Dec 2021 14:20:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,15 +28,17 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Awesome GraphQL Techs</title>
-		<link>https://pulsarforge.github.io/blog/awesome-graphql-techs/</link>
+		<title>Machines the future workforce</title>
+		<link>https://pulsarforge.github.io/blog/machines-the-future-workforce/</link>
 		
 		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
-		<pubDate>Sat, 18 Dec 2021 12:46:25 +0000</pubDate>
-				<category><![CDATA[GraphQL]]></category>
-		<guid isPermaLink="false">https://pulsarforge.github.io/?p=231</guid>
+		<pubDate>Fri, 31 Dec 2021 14:20:39 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<guid isPermaLink="false">https://pulsarforge.github.io/?p=254</guid>
 
-					<description><![CDATA[An awesome list of platforms, tools, repositories, techs around GraphQL]]></description>
+					<description><![CDATA[<p>Who will own the future workforce, "machines," and therefore the economy?</p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/machines-the-future-workforce/">Machines the future workforce</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
 				
 				
@@ -47,6 +49,63 @@
 				
 				
 				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><span data-preserver-spaces="true">I was searching for IoT Blockchain projects a while ago, and I found <a href="https://iotex.io/" target="_blank" rel="noopener">IoteX</a></span></p>
+<p><span data-preserver-spaces="true">I was keeping an eye on the company and its projects. One morning, I woke up with hype for one new announcement they were going to launch,  </span><span data-preserver-spaces="true">Machinefi.</span></p>
+<p><span data-preserver-spaces="true">I quickly opened their vision paper and started to deep dive on it; what I discovered was way beyond impressive; it was eye-opening, their vision paper raised the question: </span></p>
+<h1><span data-preserver-spaces="true"></span></h1>
+<h1><span data-preserver-spaces="true">Who will own the future workforce, &#8220;machines,&#8221; and therefore the economy?</span></h1>
+<p><span data-preserver-spaces="true"></span></p>
+<h2><span data-preserver-spaces="true">Machines are already taking a significant part of work in different sectors, and this path is only going up, increasing year by year, some predictions:</span></h2>
+<ol>
+<li><span data-preserver-spaces="true">McKinsey: By 2030, machines will outnumber humans by 10:1 and generate 12 trillion dollars in economic value.</span></li>
+<li><span data-preserver-spaces="true">PwC: 50% of all jobs will be partially automated by 2030.</span></li>
+<li><span data-preserver-spaces="true">Deloitte: 30% of the world&#8217;s workers will be replaced entirely by machines within 20 years.</span></li>
+</ol>
+<p><span data-preserver-spaces="true"></span></p>
+<p><span data-preserver-spaces="true">Beyond predictions, Machinefi&#8217;s vision, in a few words: <strong>break the status quo</strong> instead of corporations owning the world, therefore the machines; <strong>they enable people and communities to be drivers of this machine economy.</strong></span></p>
+<p>&nbsp;</p>
+<p><span data-preserver-spaces="true">One more note: Remember, machines could be physical and / or digitals, with different levels of intelligence and acting over the real world and / or the digital world.</span></p>
+<p><span data-preserver-spaces="true">I invite you to read their vision paper.</span></p>
+<p><span data-preserver-spaces="true">The rise of <a href="https://machinefi.com/" target="_blank" rel="noopener">MachineFi</a></span></p>
+<p><strong>If you enjoyed this chapter. Sharing is love.</strong></p></div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/machines-the-future-workforce/">Machines the future workforce</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Awesome GraphQL Techs</title>
+		<link>https://pulsarforge.github.io/blog/awesome-graphql-techs/</link>
+		
+		<dc:creator><![CDATA[pulsarforge]]></dc:creator>
+		<pubDate>Sat, 18 Dec 2021 12:46:25 +0000</pubDate>
+				<category><![CDATA[GraphQL]]></category>
+		<guid isPermaLink="false">https://pulsarforge.github.io/?p=231</guid>
+
+					<description><![CDATA[<p>An awesome list of platforms, tools, repositories, techs around GraphQL</p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/awesome-graphql-techs/">Awesome GraphQL Techs</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><p>Built: (For self reference of tech explored &amp; exploring)</p>
@@ -83,6 +142,7 @@
 				
 				
 			</div>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/awesome-graphql-techs/">Awesome GraphQL Techs</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -97,18 +157,20 @@
 				<category><![CDATA[Dev]]></category>
 		<guid isPermaLink="false">https://pulsarforge.github.io/?p=218</guid>
 
-					<description><![CDATA[List of Technical books, and others.]]></description>
+					<description><![CDATA[<p>List of Technical books, and others.</p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/reading-books/">Reading &#038; Books</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular" >
+<div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular" >
 				
 				
 				
 				
-					<div class="et_pb_row et_pb_row_1">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+					<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2>List:</h2>
@@ -149,6 +211,7 @@
 				
 				
 			</div>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/reading-books/">Reading &#038; Books</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -163,17 +226,19 @@
 				<category><![CDATA[Daily Updates]]></category>
 		<guid isPermaLink="false">https://pulsarforge.github.io/?p=193</guid>
 
-					<description><![CDATA[Which are my platforms and tools of choice?]]></description>
-										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular" >
+					<description><![CDATA[<p>Which are my platforms and tools of choice?</p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/my-toolbox/">My Toolbox</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular" >
 				
 				
 				
 				
-					<div class="et_pb_row et_pb_row_2">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+					<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2><span data-preserver-spaces="true">My toolbox to build, deliver, and earn.</span></h2>
@@ -221,6 +286,7 @@
 				
 				
 			</div></p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/my-toolbox/">My Toolbox</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -235,17 +301,19 @@
 				<category><![CDATA[Yearly Updates]]></category>
 		<guid isPermaLink="false">https://pulsarforge.github.io/?p=172</guid>
 
-					<description><![CDATA[What am I already cooking for 2022?]]></description>
-										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular" >
+					<description><![CDATA[<p>What am I already cooking for 2022?</p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/lifestyle-for-2022/">Lifestyle for 2022</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular" >
 				
 				
 				
 				
-					<div class="et_pb_row et_pb_row_3">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+					<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h1>Cooking on the hoven at a slow temperature</h1>
@@ -284,6 +352,7 @@
 				
 				
 			</div></p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/lifestyle-for-2022/">Lifestyle for 2022</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -298,20 +367,22 @@
 				<category><![CDATA[Metaverse]]></category>
 		<guid isPermaLink="false">https://pulsarforge.github.io/?p=46</guid>
 
-					<description><![CDATA[Real time experiences, Fully interactive objects, Holograms, and more...]]></description>
+					<description><![CDATA[<p>Real time experiences, Fully interactive objects, Holograms, and more...</p>
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/metaverse/">Metaverse</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 
 
-<div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular" >
+<div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular" >
 				
 				
 				
 				
-					<div class="et_pb_row et_pb_row_4">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+					<div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2>Insights:</h2>
@@ -339,6 +410,7 @@
 			</div>
 
 
+<p>The post <a rel="nofollow" href="https://pulsarforge.github.io/blog/metaverse/">Metaverse</a> appeared first on <a rel="nofollow" href="https://pulsarforge.github.io">PulsarForge</a>.</p>
 ]]></content:encoded>
 					
 		
